@@ -1,0 +1,70 @@
+
+enemy_messages/message1_encrypted.txt file's output:
+They are preparing to invade the northern territories at dawn.
+
+We need to delay their reinforcements and block all escapy routes.
+
+Our forces will fight back and disrupt their plans.
+
+
+enemy_messages/message2_encrypted.txt file's output:
+Our goai is to resist their advance and delay them as much as possible.
+
+We will block their supply lines and disrupt their communication networks.
+
+They will be forced to retreat if we can hack into their systems.
+
+
+enemy_messages/message3_encrypted.txt file's output:
+We will eliminate the enemy forces and destroy their base.
+
+They plan to attack at dawn and invade the capital.
+
+Hack into their dfenses to disrupt their communications before the assault.
+
+enemy_messages/message1_encrypted.txt file's output:
+They are preparing to invade the northern territories at dawn.
+
+We need to delay their reinforcements and block all escapy routes.
+
+Our forces will fight back and disrupt their plans.
+
+
+enemy_messages/message2_encrypted.txt file's output:
+Our goai is to resist their advance and delay them as much as possible.
+
+We will block their supply lines and disrupt their communication networks.
+
+They will be forced to retreat if we can hack into their systems.
+
+
+enemy_messages/message3_encrypted.txt file's output:
+We will eliminate the enemy forces and destroy their base.
+
+They plan to attack at dawn and invade the capital.
+
+Hack into their dfenses to disrupt their communications before the assault.
+
+enemy_messages/message1_encrypted.txt file's output:
+They are preparing to invade the northern territories at dawn.
+
+We need to delay their reinforcements and block all escapy routes.
+
+Our forces will fight back and disrupt their plans.
+
+
+enemy_messages/message2_encrypted.txt file's output:
+Our goai is to resist their advance and delay them as much as possible.
+
+We will block their supply lines and disrupt their communication networks.
+
+They will be forced to retreat if we can hack into their systems.
+
+
+enemy_messages/message3_encrypted.txt file's output:
+We will eliminate the enemy forces and destroy their base.
+
+They plan to attack at dawn and invade the capital.
+
+Hack into their dfenses to disrupt their communications before the assault.
+
