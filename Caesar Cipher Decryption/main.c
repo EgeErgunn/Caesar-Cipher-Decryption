@@ -189,7 +189,7 @@ void PrintTheMessageWithShifted (const char *fileName, int shiftAmount)
 
 int main() 
     {
-    caeserDecryption(); // Same as other 2, appends everytime when its called
+    caeserDecryption(); // it appends everytime when its called
 
     return 0;
     }
